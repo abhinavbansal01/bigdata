@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\.hydra\idea" />
+    <option name="noOfCores" value="4" />
+    <option name="projectRoot" value="C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\apache-log-parsing_2.11-0.0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\classes\com\cloudxlab[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\classes\com\cloudxlab\logparsing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\EntryPoint$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\classes\com\cloudxlab\logparsing\EntryPoint$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\EntryPoint$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\classes\com\cloudxlab\logparsing\EntryPoint$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\EntryPoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\classes\com\cloudxlab\logparsing\EntryPoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\EntryPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\classes\com\cloudxlab\logparsing\EntryPoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\LogRecord$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\classes\com\cloudxlab\logparsing\LogRecord$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\LogRecord.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\classes\com\cloudxlab\logparsing\LogRecord.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\cloudxlab\logparsing\Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Abhi Studios\Documents\GitHub\bigdata\spark\projects\apache-log-parse-final\target\scala-2.11\classes\com\cloudxlab\logparsing\Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
